@@ -1,0 +1,14 @@
+D:\JS Practice\New project\ExcelTemplateSystem.Data\bin\Debug\net8.0\ExcelTemplateSystem.Data.deps.json
+D:\JS Practice\New project\ExcelTemplateSystem.Data\bin\Debug\net8.0\ExcelTemplateSystem.Data.runtimeconfig.json
+D:\JS Practice\New project\ExcelTemplateSystem.Data\bin\Debug\net8.0\ExcelTemplateSystem.Data.dll
+D:\JS Practice\New project\ExcelTemplateSystem.Data\bin\Debug\net8.0\ExcelTemplateSystem.Data.pdb
+D:\JS Practice\New project\ExcelTemplateSystem.Data\obj\Debug\net8.0\ExcelTemplateSystem.Data.csproj.AssemblyReference.cache
+D:\JS Practice\New project\ExcelTemplateSystem.Data\obj\Debug\net8.0\ExcelTemplateSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\JS Practice\New project\ExcelTemplateSystem.Data\obj\Debug\net8.0\ExcelTemplateSystem.Data.AssemblyInfoInputs.cache
+D:\JS Practice\New project\ExcelTemplateSystem.Data\obj\Debug\net8.0\ExcelTemplateSystem.Data.AssemblyInfo.cs
+D:\JS Practice\New project\ExcelTemplateSystem.Data\obj\Debug\net8.0\ExcelTemplateSystem.Data.csproj.CoreCompileInputs.cache
+D:\JS Practice\New project\ExcelTemplateSystem.Data\obj\Debug\net8.0\ExcelTemplateSystem.Data.dll
+D:\JS Practice\New project\ExcelTemplateSystem.Data\obj\Debug\net8.0\refint\ExcelTemplateSystem.Data.dll
+D:\JS Practice\New project\ExcelTemplateSystem.Data\obj\Debug\net8.0\ExcelTemplateSystem.Data.pdb
+D:\JS Practice\New project\ExcelTemplateSystem.Data\obj\Debug\net8.0\ExcelTemplateSystem.Data.genruntimeconfig.cache
+D:\JS Practice\New project\ExcelTemplateSystem.Data\obj\Debug\net8.0\ref\ExcelTemplateSystem.Data.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IMBr+ytPqKhmCkva3fohSRFEoDeQUt5ldX96bGLm3GI=",
+  "Source": "ExcelTemplateSystem.API",
+  "BasePath": "_content/ExcelTemplateSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

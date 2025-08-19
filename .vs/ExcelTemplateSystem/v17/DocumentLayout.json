@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JS Practice\\New project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A4B7C1-CC44-4873-8F06-143530665E39}|ExcelTemplateSystem.Business\\ExcelTemplateSystem.Business.csproj|d:\\js practice\\new project\\exceltemplatesystem.business\\services\\documenttemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A4B7C1-CC44-4873-8F06-143530665E39}|ExcelTemplateSystem.Business\\ExcelTemplateSystem.Business.csproj|solutionrelative:exceltemplatesystem.business\\services\\documenttemplateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1ECC6FF-84CD-4527-BD19-29488C573EF2}|ExcelTemplateSystem.API\\ExcelTemplateSystem.API.csproj|d:\\js practice\\new project\\exceltemplatesystem.api\\controllers\\documenttemplatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1ECC6FF-84CD-4527-BD19-29488C573EF2}|ExcelTemplateSystem.API\\ExcelTemplateSystem.API.csproj|solutionrelative:exceltemplatesystem.api\\controllers\\documenttemplatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\JS Practice\\New project\\ExcelTemplateSystem.Data\\Migrations\\20250819082313_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExcelTemplateSystem.Data\\Migrations\\20250819082313_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C4F921-88A2-4768-A7F1-123C6C6C1707}|ExcelTemplateSystem.Data\\ExcelTemplateSystem.Data.csproj|d:\\js practice\\new project\\exceltemplatesystem.data\\context\\exceltemplatesystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C4F921-88A2-4768-A7F1-123C6C6C1707}|ExcelTemplateSystem.Data\\ExcelTemplateSystem.Data.csproj|solutionrelative:exceltemplatesystem.data\\context\\exceltemplatesystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1ECC6FF-84CD-4527-BD19-29488C573EF2}|ExcelTemplateSystem.API\\ExcelTemplateSystem.API.csproj|d:\\js practice\\new project\\exceltemplatesystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1ECC6FF-84CD-4527-BD19-29488C573EF2}|ExcelTemplateSystem.API\\ExcelTemplateSystem.API.csproj|solutionrelative:exceltemplatesystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1ECC6FF-84CD-4527-BD19-29488C573EF2}|ExcelTemplateSystem.API\\ExcelTemplateSystem.API.csproj|d:\\js practice\\new project\\exceltemplatesystem.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1ECC6FF-84CD-4527-BD19-29488C573EF2}|ExcelTemplateSystem.API\\ExcelTemplateSystem.API.csproj|solutionrelative:exceltemplatesystem.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250819082313_initial.cs",
+              "DocumentMoniker": "D:\\JS Practice\\New project\\ExcelTemplateSystem.Data\\Migrations\\20250819082313_initial.cs",
+              "RelativeDocumentMoniker": "ExcelTemplateSystem.Data\\Migrations\\20250819082313_initial.cs",
+              "ToolTip": "D:\\JS Practice\\New project\\ExcelTemplateSystem.Data\\Migrations\\20250819082313_initial.cs",
+              "RelativeToolTip": "ExcelTemplateSystem.Data\\Migrations\\20250819082313_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:23:14.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExcelTemplateSystemContext.cs",
+              "DocumentMoniker": "D:\\JS Practice\\New project\\ExcelTemplateSystem.Data\\Context\\ExcelTemplateSystemContext.cs",
+              "RelativeDocumentMoniker": "ExcelTemplateSystem.Data\\Context\\ExcelTemplateSystemContext.cs",
+              "ToolTip": "D:\\JS Practice\\New project\\ExcelTemplateSystem.Data\\Context\\ExcelTemplateSystemContext.cs",
+              "RelativeToolTip": "ExcelTemplateSystem.Data\\Context\\ExcelTemplateSystemContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:20:19.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\JS Practice\\New project\\ExcelTemplateSystem.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ExcelTemplateSystem.API\\appsettings.json",
+              "ToolTip": "D:\\JS Practice\\New project\\ExcelTemplateSystem.API\\appsettings.json",
+              "RelativeToolTip": "ExcelTemplateSystem.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T08:19:32.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\JS Practice\\New project\\ExcelTemplateSystem.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ExcelTemplateSystem.API\\appsettings.Development.json",
+              "ToolTip": "D:\\JS Practice\\New project\\ExcelTemplateSystem.API\\appsettings.Development.json",
+              "RelativeToolTip": "ExcelTemplateSystem.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T08:19:28.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentTemplateService.cs",
+              "DocumentMoniker": "D:\\JS Practice\\New project\\ExcelTemplateSystem.Business\\Services\\DocumentTemplateService.cs",
+              "RelativeDocumentMoniker": "ExcelTemplateSystem.Business\\Services\\DocumentTemplateService.cs",
+              "ToolTip": "D:\\JS Practice\\New project\\ExcelTemplateSystem.Business\\Services\\DocumentTemplateService.cs",
+              "RelativeToolTip": "ExcelTemplateSystem.Business\\Services\\DocumentTemplateService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAqwDwAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:10:53.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentTemplatesController.cs",
+              "DocumentMoniker": "D:\\JS Practice\\New project\\ExcelTemplateSystem.API\\Controllers\\DocumentTemplatesController.cs",
+              "RelativeDocumentMoniker": "ExcelTemplateSystem.API\\Controllers\\DocumentTemplatesController.cs",
+              "ToolTip": "D:\\JS Practice\\New project\\ExcelTemplateSystem.API\\Controllers\\DocumentTemplatesController.cs",
+              "RelativeToolTip": "ExcelTemplateSystem.API\\Controllers\\DocumentTemplatesController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAuwFIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:10:38.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

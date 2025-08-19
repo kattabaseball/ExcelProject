@@ -1,0 +1,15 @@
+D:\JS Practice\New project\ExcelTemplateSystem.Business\bin\Debug\net8.0\ExcelTemplateSystem.Business.deps.json
+D:\JS Practice\New project\ExcelTemplateSystem.Business\bin\Debug\net8.0\ExcelTemplateSystem.Business.dll
+D:\JS Practice\New project\ExcelTemplateSystem.Business\bin\Debug\net8.0\ExcelTemplateSystem.Business.pdb
+D:\JS Practice\New project\ExcelTemplateSystem.Business\bin\Debug\net8.0\ExcelTemplateSystem.Data.dll
+D:\JS Practice\New project\ExcelTemplateSystem.Business\bin\Debug\net8.0\ExcelTemplateSystem.Data.pdb
+D:\JS Practice\New project\ExcelTemplateSystem.Business\obj\Debug\net8.0\ExcelTemplateSystem.Business.csproj.AssemblyReference.cache
+D:\JS Practice\New project\ExcelTemplateSystem.Business\obj\Debug\net8.0\ExcelTemplateSystem.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\JS Practice\New project\ExcelTemplateSystem.Business\obj\Debug\net8.0\ExcelTemplateSystem.Business.AssemblyInfoInputs.cache
+D:\JS Practice\New project\ExcelTemplateSystem.Business\obj\Debug\net8.0\ExcelTemplateSystem.Business.AssemblyInfo.cs
+D:\JS Practice\New project\ExcelTemplateSystem.Business\obj\Debug\net8.0\ExcelTemplateSystem.Business.csproj.CoreCompileInputs.cache
+D:\JS Practice\New project\ExcelTemplateSystem.Business\obj\Debug\net8.0\ExcelTem.A04EC857.Up2Date
+D:\JS Practice\New project\ExcelTemplateSystem.Business\obj\Debug\net8.0\ExcelTemplateSystem.Business.dll
+D:\JS Practice\New project\ExcelTemplateSystem.Business\obj\Debug\net8.0\refint\ExcelTemplateSystem.Business.dll
+D:\JS Practice\New project\ExcelTemplateSystem.Business\obj\Debug\net8.0\ExcelTemplateSystem.Business.pdb
+D:\JS Practice\New project\ExcelTemplateSystem.Business\obj\Debug\net8.0\ref\ExcelTemplateSystem.Business.dll
